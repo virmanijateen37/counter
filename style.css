@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+}
+.container{
+    text-align: center;
+}
+h1{
+    margin: 100px;
+    font-size: 50px;
+}
+
+h2{
+    margin: 30px;
+    font-size: 50px;
+}
+
+button{
+    margin: 30px;
+    padding:10px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color:rgba(132, 173, 248, 0.889);
+
+}
+
+#save-btn{
+    background-color: rgb(100, 237, 159);
+}
+#reset-btn{
+    background-color: rgb(252, 51, 61);
+}
+
+.savedText{
+    font-size: 20px;
+
+}
